@@ -1,0 +1,138 @@
+id,code,chart_template_id:id,name,user_type_id:id,reconcile
+id_1-111001,1-111001,l10n_id.l10n_id_chart_template,Kas Kecil,account.data_account_type_liquidity,FALSE
+id_1-111002,1-111002,l10n_id.l10n_id_chart_template,Kas Belum Disetor,account.data_account_type_liquidity,FALSE
+id_1-112001,1-112001,l10n_id.l10n_id_chart_template,Mandiri Personal,account.data_account_type_liquidity,FALSE
+id_1-112002,1-112002,l10n_id.l10n_id_chart_template,Mandiri Bisnis,account.data_account_type_liquidity,FALSE
+id_1-112003,1-112003,l10n_id.l10n_id_chart_template,Muamalat,account.data_account_type_liquidity,FALSE
+id_1-112004,1-112004,l10n_id.l10n_id_chart_template,BNI,account.data_account_type_liquidity,FALSE
+id_1-112005,1-112005,l10n_id.l10n_id_chart_template,BCA,account.data_account_type_liquidity,FALSE
+id_1-112006,1-112006,l10n_id.l10n_id_chart_template,BNI Giro,account.data_account_type_liquidity,FALSE
+id_1-112007,1-112007,l10n_id.l10n_id_chart_template,Mandiri Giro,account.data_account_type_liquidity,FALSE
+id_1-121001,1-121001,l10n_id.l10n_id_chart_template,Piutang Usaha,account.data_account_type_receivable,TRUE
+id_1-121002,1-121002,l10n_id.l10n_id_chart_template,Piutang Karyawan,account.data_account_type_liquidity,FALSE
+id_1-211003,1-211003,l10n_id.l10n_id_chart_template,Piutang Owner,account.data_account_type_liquidity,FALSE
+id_1-211004,1-211004,l10n_id.l10n_id_chart_template,Piutang lainnya,account.data_account_type_liquidity,FALSE
+id_1-130001,1-130001,l10n_id.l10n_id_chart_template,Persediaan Barang ,account.data_account_type_current_assets,FALSE
+Id_1-139001,1-139001,l10n_id.l10n_id_chart_template,Goods Issued Not Invoiced,account.data_account_type_current_assets,FALSE
+id_1-141001,1-141001,l10n_id.l10n_id_chart_template,Sewa Bangunan,account.data_account_type_current_assets,FALSE
+id_1-141002,1-141002,l10n_id.l10n_id_chart_template,Asuransi Dibayar Dimuka,account.data_account_type_current_assets,FALSE
+id_1-141003,1-141003,l10n_id.l10n_id_chart_template,Beban Iklan Dibayar Dimuka,account.data_account_type_current_assets,FALSE
+id_1-180000,1-180000,l10n_id.l10n_id_chart_template,Uang Muka Pembelian,account.data_account_type_current_assets,FALSE
+id_1-151001,1-151001,l10n_id.l10n_id_chart_template,PPN Masukan,account.data_account_type_current_assets,FALSE
+Id_1-151002,1-151002,l10n_id.l10n_id_chart_template,Pajak Dibayar Dimuka PPH 22,account.data_account_type_current_assets,FALSE
+Id_1-151003,1-151003,l10n_id.l10n_id_chart_template,Pajak Dibayar Dimuka PPH 23,account.data_account_type_current_assets,FALSE
+Id_1-151004,1-151004,l10n_id.l10n_id_chart_template,Pajak Dibayar Dimuka PPH 25,account.data_account_type_current_assets,FALSE
+id_1-221001,1-221001,l10n_id.l10n_id_chart_template,Tanah ,account.data_account_type_fixed_assets,FALSE
+id_1-221002,1-221002,l10n_id.l10n_id_chart_template,Bangunan Kantor,account.data_account_type_fixed_assets,FALSE
+id_1-221003,1-221003,l10n_id.l10n_id_chart_template,Kendaraan,account.data_account_type_fixed_assets,FALSE
+id_1-221004,1-221004,l10n_id.l10n_id_chart_template,Perlatan Kantor,account.data_account_type_fixed_assets,FALSE
+id_1-221005,1-221005,l10n_id.l10n_id_chart_template,Software,account.data_account_type_current_assets,FALSE
+id_1-221006,1-221006,l10n_id.l10n_id_chart_template,Furnitur Kantor,account.data_account_type_fixed_assets,FALSE
+id_1-228101,1-228101,l10n_id.l10n_id_chart_template,Akum Peny Bangunan Kantor,account.data_account_type_current_assets,FALSE
+id_1-228102,1-228102,l10n_id.l10n_id_chart_template,Akum Peny Kendaraan Kendaraan,account.data_account_type_current_assets,FALSE
+id_1-228103,1-228103,l10n_id.l10n_id_chart_template,Akum Peny Peralatan Kantor,account.data_account_type_current_assets,FALSE
+id_1-228104,1-228104,l10n_id.l10n_id_chart_template,Akum Peny Software,account.data_account_type_current_assets,FALSE
+id_1-228105,1-228105,l10n_id.l10n_id_chart_template,Akum Peny Furnitur Kantor,account.data_account_type_current_assets,FALSE
+id_2-110001,2-110001,l10n_id.l10n_id_chart_template,Hutang Usaha,account.data_account_type_payable,TRUE
+id_2-110002,2-110002,l10n_id.l10n_id_chart_template,Hutang Pemegang Saham,account.data_account_type_current_liabilities,FALSE
+id_2-110003,2-110003,l10n_id.l10n_id_chart_template,Hutang Pihak Ketiga,account.data_account_type_current_liabilities,FALSE
+id_2-110004,2-110004,l10n_id.l10n_id_chart_template,Hutang Gaji,account.data_account_type_current_liabilities,FALSE
+Id_2-119001,2-119001,l10n_id.l10n_id_chart_template,Goods Received Not Purchased,account.data_account_type_current_liabilities,FALSE
+id_2-121001,2-121001,l10n_id.l10n_id_chart_template,Hutang Pajak PPh 21,account.data_account_type_current_liabilities,FALSE
+id_2-121002,2-121002,l10n_id.l10n_id_chart_template,Hutang Pajak PPh 23,account.data_account_type_current_liabilities,FALSE
+id_2-121003,2-121003,l10n_id.l10n_id_chart_template,Hutang Pajak PPh 25,account.data_account_type_current_liabilities,FALSE
+id_2-121004,2-121004,l10n_id.l10n_id_chart_template,Hutang Pajak Pasal 4 (2),account.data_account_type_current_liabilities,FALSE
+id_2-121005,2-121005,l10n_id.l10n_id_chart_template,Hutang Pajak PPh 29,account.data_account_type_current_liabilities,FALSE
+id_2-122101,2-122101,l10n_id.l10n_id_chart_template,PPN Keluaran,account.data_account_type_current_liabilities,FALSE
+id_2-211001,2-211001,l10n_id.l10n_id_chart_template,Hutang Bank,account.data_account_type_current_liabilities,FALSE
+id_2-211002,2-211002,l10n_id.l10n_id_chart_template,Hutang Leasing,account.data_account_type_current_liabilities,FALSE
+id_2-511001,2-511001,l10n_id.l10n_id_chart_template,BYMHD Listrik ,account.data_account_type_current_liabilities,FALSE
+id_2-511002,2-511002,l10n_id.l10n_id_chart_template,BYMHD Jamsostek ,account.data_account_type_current_liabilities,FALSE
+id_2-511003,2-511003,l10n_id.l10n_id_chart_template,BYMHD Air,account.data_account_type_current_liabilities,FALSE
+id_2-511004,2-511004,l10n_id.l10n_id_chart_template,BYMHD Telepon ,account.data_account_type_current_liabilities,FALSE
+id_2-511005,2-511005,l10n_id.l10n_id_chart_template,BYMHD Jasa Pengelola Keamanan,account.data_account_type_current_liabilities,FALSE
+id_2-511006,2-511006,l10n_id.l10n_id_chart_template,BYMHD Bank,account.data_account_type_current_liabilities,FALSE
+id_2-511007,2-511007,l10n_id.l10n_id_chart_template,BYMHD PBB,account.data_account_type_current_liabilities,FALSE
+id_2-511008,2-511008,l10n_id.l10n_id_chart_template,BYMHD Izin Usaha,account.data_account_type_current_liabilities,FALSE
+id_2-511009,2-511009,l10n_id.l10n_id_chart_template,BYMHD Asuransi,account.data_account_type_current_liabilities,FALSE
+id_2-511010,2-511010,l10n_id.l10n_id_chart_template,BYMHD Pendidikan dan Latihan,account.data_account_type_current_liabilities,FALSE
+id_2-511011,2-511011,l10n_id.l10n_id_chart_template,BYMHD Jaminan Kesehatan/BPJS,account.data_account_type_current_liabilities,FALSE
+id_2-811001,2-811001,l10n_id.l10n_id_chart_template,Uang Muka Penjualan,account.data_account_type_current_liabilities,FALSE
+id_2-811002,2-811002,l10n_id.l10n_id_chart_template,Deposit Customer,account.data_account_type_current_liabilities,FALSE
+id_2-811003,2-811003,l10n_id.l10n_id_chart_template,Poin Bonus,account.data_account_type_current_liabilities,FALSE
+id_3-110001,3-110001,l10n_id.l10n_id_chart_template,Modal Dasar,account.data_account_type_equity,FALSE
+id_3-110002,3-110002,l10n_id.l10n_id_chart_template,Modal Yang Disetor,account.data_account_type_equity,FALSE
+id_3-110003,3-110003,l10n_id.l10n_id_chart_template,Modal Yang Belum Disetor,account.data_account_type_equity,FALSE
+id_3-110004,3-110004,l10n_id.l10n_id_chart_template,Prive (Pengambilan Pribadi),account.data_account_type_equity,FALSE
+id_3-121001,3-121001,l10n_id.l10n_id_chart_template,Cadangan Modal,account.data_account_type_equity,FALSE
+id_3-151001,3-151001,l10n_id.l10n_id_chart_template,Laba Rugi Tahun Lalu,account.data_account_type_equity,FALSE
+id_3-900000,3-900000,l10n_id.l10n_id_chart_template,Historical Balance,account.data_account_type_equity,FALSE
+id_4-100001,4-100001,l10n_id.l10n_id_chart_template,Penjualan Barang,account.data_account_type_revenue,FALSE
+id_4-20005,4-20005,l10n_id.l10n_id_chart_template,Pendapatan Biaya Kirim,account.data_account_type_revenue,FALSE
+id_4-20006,4-20006,l10n_id.l10n_id_chart_template,Retur Penjualan,account.data_account_type_revenue,FALSE
+id_4-20007,4-20007,l10n_id.l10n_id_chart_template,Discount Penjualan,account.data_account_type_revenue,FALSE
+id_5-100001,5-100001,l10n_id.l10n_id_chart_template,HPP Barang ,account.data_account_type_direct_costs,FALSE
+id_6-110001,6-110001,l10n_id.l10n_id_chart_template,Gaji Karyawan,account.data_account_type_expenses,FALSE
+id_6-110002,6-110002,l10n_id.l10n_id_chart_template,Tunjangan/ Bonus Karyawan,account.data_account_type_expenses,FALSE
+id_6-110003,6-110003,l10n_id.l10n_id_chart_template,Tunjangan Kesehatan Karyawan,account.data_account_type_expenses,FALSE
+id_6-110004,6-110004,l10n_id.l10n_id_chart_template,Pangan karyawan (catering),account.data_account_type_expenses,FALSE
+id_6-110005,6-110005,l10n_id.l10n_id_chart_template,Lembur Karyawan ,account.data_account_type_expenses,FALSE
+id_6-110006,6-110006,l10n_id.l10n_id_chart_template,Fee Jasa Keamanan,account.data_account_type_expenses,FALSE
+id_6-110007,6-110007,l10n_id.l10n_id_chart_template,Pakaian Kerja,account.data_account_type_expenses,FALSE
+id_6-110008,6-110008,l10n_id.l10n_id_chart_template,Tunjangan Ulang Tahun Karyawan,account.data_account_type_expenses,FALSE
+id_6-110009,6-110009,l10n_id.l10n_id_chart_template,Tunjangan Melahirkan Karyawan,account.data_account_type_expenses,FALSE
+id_6-110010,6-110010,l10n_id.l10n_id_chart_template,Tunjangan PPH Pasal 21,account.data_account_type_expenses,FALSE
+id_6-211001,6-211001,l10n_id.l10n_id_chart_template,Free Gift,account.data_account_type_expenses,FALSE
+id_6-211002,6-211002,l10n_id.l10n_id_chart_template,Event ,account.data_account_type_expenses,FALSE
+id_6-211003,6-211003,l10n_id.l10n_id_chart_template,Advertising,account.data_account_type_expenses,FALSE
+id_6-211004,6-211004,l10n_id.l10n_id_chart_template,Pengiriman Barang Dagang,account.data_account_type_expenses,FALSE
+id_6-311001,6-311001,l10n_id.l10n_id_chart_template,Air Minum,account.data_account_type_expenses,FALSE
+id_6-311002,6-311002,l10n_id.l10n_id_chart_template,Keperluan Olahraga,account.data_account_type_expenses,FALSE
+id_6-311003,6-311003,l10n_id.l10n_id_chart_template,Iuran Bulanan,account.data_account_type_expenses,FALSE
+id_6-311004,6-311004,l10n_id.l10n_id_chart_template,Sumbangan,account.data_account_type_expenses,FALSE
+id_6-311005,6-311005,l10n_id.l10n_id_chart_template,Internet,account.data_account_type_expenses,FALSE
+id_6-311006,6-311006,l10n_id.l10n_id_chart_template,Telepon,account.data_account_type_expenses,FALSE
+id_6-311007,6-311007,l10n_id.l10n_id_chart_template,Pulsa ,account.data_account_type_expenses,FALSE
+id_6-311008,6-311008,l10n_id.l10n_id_chart_template,Listrik,account.data_account_type_expenses,FALSE
+id_6-311009,6-311009,l10n_id.l10n_id_chart_template,PDAM,account.data_account_type_expenses,FALSE
+id_6-311010,6-311010,l10n_id.l10n_id_chart_template,Research & Development,account.data_account_type_expenses,FALSE
+id_6-311011,6-311011,l10n_id.l10n_id_chart_template,Keperluan Dapur,account.data_account_type_expenses,FALSE
+id_6-311012,6-311012,l10n_id.l10n_id_chart_template,Perlengkapan Kantor,account.data_account_type_expenses,FALSE
+id_6-311013,6-311013,l10n_id.l10n_id_chart_template,P3K,account.data_account_type_expenses,FALSE
+id_6-311014,6-311014,l10n_id.l10n_id_chart_template,Keperluan Lain-lain,account.data_account_type_expenses,FALSE
+id_6-311015,6-311015,l10n_id.l10n_id_chart_template,K3 (Pemadam Kebakaran),account.data_account_type_expenses,FALSE
+id_6-311016,6-311016,l10n_id.l10n_id_chart_template,Perlengkapan Kebersihan,account.data_account_type_expenses,FALSE
+id_6-311018,6-311018,l10n_id.l10n_id_chart_template,Keperluan Owner,account.data_account_type_expenses,FALSE
+id_6-411001,6-411001,l10n_id.l10n_id_chart_template,Alat Tulis Kantor,account.data_account_type_expenses,FALSE
+id_6-411002,6-411002,l10n_id.l10n_id_chart_template,Keperluan Pos,account.data_account_type_expenses,FALSE
+id_6-411003,6-411003,l10n_id.l10n_id_chart_template,Jilid & Photocopy,account.data_account_type_expenses,FALSE
+id_6-411004,6-411004,l10n_id.l10n_id_chart_template,Iklan Lowongan Kerja,account.data_account_type_expenses,FALSE
+id_6-411005,6-411005,l10n_id.l10n_id_chart_template,Materai,account.data_account_type_expenses,FALSE
+id_6-511001,6-511001,l10n_id.l10n_id_chart_template,Biaya Perizinan,account.data_account_type_expenses,FALSE
+id_6-511002,6-511002,l10n_id.l10n_id_chart_template,Biaya Administrasi Bank,account.data_account_type_expenses,FALSE
+id_6-511003,6-511003,l10n_id.l10n_id_chart_template,Biaya Konsultan,account.data_account_type_expenses,FALSE
+id_6-511004,6-511004,l10n_id.l10n_id_chart_template,Biaya Sewa,account.data_account_type_expenses,FALSE
+id_6-511006,6-511006,l10n_id.l10n_id_chart_template,Biaya Pemeliharaan & Perawatan Gedung,account.data_account_type_expenses,FALSE
+id_6-511007,6-511007,l10n_id.l10n_id_chart_template,"Biaya Perawatan Instalasi Listrik, telepon, internet",account.data_account_type_expenses,FALSE
+id_6-511008,6-511008,l10n_id.l10n_id_chart_template,Pajak,account.data_account_type_expenses,FALSE
+id_6-511009,6-511009,l10n_id.l10n_id_chart_template,Akomodasi Tamu,account.data_account_type_expenses,FALSE
+id_6-511010,6-511010,l10n_id.l10n_id_chart_template,Biaya Pemeliharaan & Perawatan Aset,account.data_account_type_expenses,FALSE
+id_6-511011,6-511011,l10n_id.l10n_id_chart_template,Biaya Pengiriman Dokumen/Barang,account.data_account_type_expenses,FALSE
+id_6-611001,6-611001,l10n_id.l10n_id_chart_template,BBM kendaraan,account.data_account_type_expenses,FALSE
+id_6-611002,6-611002,l10n_id.l10n_id_chart_template,Service kendaraan,account.data_account_type_expenses,FALSE
+id_6-611003,6-611003,l10n_id.l10n_id_chart_template,Parkir & tol kendaraan,account.data_account_type_expenses,FALSE
+id_6-611004,6-611004,l10n_id.l10n_id_chart_template,Pajak Kendaraan,account.data_account_type_expenses,FALSE
+id_6-611005,6-611005,l10n_id.l10n_id_chart_template,Asuransi Kendaraan,account.data_account_type_expenses,FALSE
+id_6-710001,6-710001,l10n_id.l10n_id_chart_template,Tanah ,account.data_account_type_expenses,FALSE
+id_6-710002,6-710002,l10n_id.l10n_id_chart_template,Bangunan Kantor,account.data_account_type_expenses,FALSE
+id_6-710003,6-710003,l10n_id.l10n_id_chart_template,Kendaraan,account.data_account_type_expenses,FALSE
+id_6-710004,6-710004,l10n_id.l10n_id_chart_template,Perlatan Kantor,account.data_account_type_expenses,FALSE
+id_6-710005,6-710005,l10n_id.l10n_id_chart_template,Software,account.data_account_type_expenses,FALSE
+id_6-710006,6-710006,l10n_id.l10n_id_chart_template,Furnitur Kantor,account.data_account_type_expenses,FALSE
+id_6-900000,6-900000,l10n_id.l10n_id_chart_template,Biaya Lain-lain,account.data_account_type_expenses,FALSE
+id_8-110001,8-110001,l10n_id.l10n_id_chart_template,Pendapatan Bunga,account.data_account_type_other_income,FALSE
+id_8-110002,8-110002,l10n_id.l10n_id_chart_template,Pendapatan Deposit,account.data_account_type_other_income,FALSE
+id_8-110009,8-110009,l10n_id.l10n_id_chart_template,Keuntungan Atas Penjualan Aktiva Tetap,account.data_account_type_other_income,FALSE
+id_9-110001,9-110001,l10n_id.l10n_id_chart_template,Beban Bunga,l10n_id.data_account_type_other_expense,FALSE
+id_9-110002,9-110002,l10n_id.l10n_id_chart_template,Beban Administrasi Bank,l10n_id.data_account_type_other_expense,FALSE
+id_9-110009,9-110009,l10n_id.l10n_id_chart_template,Kerugian Atas Penjualan Aktiva Tetap,l10n_id.data_account_type_other_expense,FALSE

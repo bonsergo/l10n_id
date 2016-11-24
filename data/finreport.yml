@@ -1,0 +1,127 @@
+-
+ !record {model: account.financial.report, id: finreportNR}:
+    name: Neraca
+    sign: 1
+-
+ !record {model: account.financial.report, id: finreportNRAktiva}:
+    name: Aktiva
+    sequence: 10
+    sign: 1
+    parent_id: finreportNR
+    type: account_type
+    display_detail: detail_with_hierarchy
+    account_type_ids:
+      - account.data_account_type_current_assets
+      - account.data_account_type_liquidity
+      - account.data_account_type_receivable
+      - account.data_account_type_fixed_assets
+-
+ !record {model: account.financial.report, id: finreportNRPasiva}:
+    name: Hutang dan Modal
+    sequence: 10
+    sign: -1
+    parent_id: finreportNR
+-
+ !record {model: account.financial.report, id: finreportNRHutang}:
+    name: Hutang
+    sequence: 10
+    sign: -1
+    parent_id: finreportNRPasiva
+    type: account_type
+    display_detail: detail_with_hierarchy
+    account_type_ids:
+      - account.data_account_type_payable
+      - account.data_account_type_current_liabilities
+-
+ !record {model: account.financial.report, id: finreportNRModal}:
+    name: Modal
+    sequence: 20
+    sign: -1
+    parent_id: finreportNRPasiva
+    type: account_type
+    display_detail: detail_with_hierarchy
+    account_type_ids:
+      - account.data_account_type_equity
+
+-
+ !record {model: account.financial.report, id: finreportRL}:
+    name: Rugi Laba
+    sign: -1
+-
+ !record {model: account.financial.report, id: finreportRL2}:
+    name: Pendapatan
+    sequence: 10
+    sign: -1
+    parent_id: finreportRL
+    type: account_type
+    display_detail: detail_with_hierarchy
+    account_type_ids:
+      - account.data_account_type_revenue 
+-
+ !record {model: account.financial.report, id: finreportRL3}:
+    name: Harga Pokok Penjualan
+    sequence: 20
+    sign: -1
+    parent_id: finreportRL
+    type: account_type
+    display_detail: detail_with_hierarchy
+    account_type_ids:
+      - account.data_account_type_direct_costs
+-
+ !record {model: account.financial.report, id: finreportRL4}:
+    name: Laba Rugi Kotor
+    sequence: 30
+    sign: -1
+    parent_id: finreportRL
+    type: account_type
+    display_detail: no_detail
+    account_type_ids:
+      - account.data_account_type_revenue
+      - account.data_account_type_direct_costs
+-
+ !record {model: account.financial.report, id: finreportRL5}:
+    name: Biaya Operasional
+    sequence: 40
+    sign: -1
+    parent_id: finreportRL
+    type: account_type
+    display_detail: detail_with_hierarchy
+    account_type_ids:
+      - account.data_account_type_expenses
+      - account.data_account_type_depreciation
+-
+ !record {model: account.financial.report, id: finreportRL6}:
+    name: Pendapatan Lain
+    sequence: 50
+    sign: -1
+    parent_id: finreportRL
+    type: account_type
+    display_detail: detail_with_hierarchy
+    account_type_ids:
+      - account.data_account_type_other_income
+-
+ !record {model: account.financial.report, id: finreportRL7}:
+    name: Biaya Lain
+    sequence: 60
+    sign: -1
+    parent_id: finreportRL
+    type: account_type
+    display_detail: detail_with_hierarchy
+    account_type_ids:
+      - l10n_id.data_account_type_other_expense
+-
+ !record {model: account.financial.report, id: finreportRL8}:
+    name: Laba Rugi Bersih
+    sequence: 70
+    sign: -1
+    parent_id: finreportRL
+    type: account_type
+    display_detail: no_detail
+    account_type_ids:
+      - account.data_account_type_revenue
+      - account.data_account_type_direct_costs
+      - account.data_account_type_expenses
+      - account.data_account_type_depreciation
+      - account.data_account_type_other_income
+      - l10n_id.data_account_type_other_expense
+      - l10n_id.data_account_type_tax

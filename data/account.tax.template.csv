@@ -1,0 +1,5 @@
+id,chart_template_id:id,name,sequence,description,type_tax_use,amount_type,amount,price_include,account_id:id,refund_account_id:id,tag_ids:id
+id_tax_sale_10,l10n_id_chart_template,PPN Keluaran (10%),1,Pajak Pendapatan Keluaran,sale,percent,10,FALSE,id_2-122101,id_2-122101,tag_id_tax_sale_10
+id_tax_purchase_10,l10n_id_chart_template,PPN Masukan  (10%),1,Pajak Pendapatan Masukan,purchase,percent,10,FALSE,id_1-151001,id_1-151001,tag_id_tax_purchase_10
+id_tax_sale_0,l10n_id_chart_template,PPN Keluaran,2,Pajak Pendapatan Keluaran,sale,percent,10,FALSE,id_2-122101,id_2-122101,tag_id_tax_sale_0
+id_tax_purchase_0,l10n_id_chart_template,PPN Masukan ,2,Pajak Pendapatan Masukan,purchase,percent,10,FALSE,id_1-151001,id_1-151001,tag_id_tax_purchase_0
